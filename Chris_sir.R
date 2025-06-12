@@ -13,3 +13,13 @@ summary(trees)
 trees$Girth
 
 boxplot(trees$Girth)
+
+#Third work. before merging.
+
+boxplot(trees$Height)
+
+boxplot(trees$Volume)
+
+
+
+
