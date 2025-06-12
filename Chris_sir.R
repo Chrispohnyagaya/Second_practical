@@ -32,3 +32,7 @@ hist(trees$Volume)
 #Fifth work. before merging.
 
 mean(trees$Height)
+
+
+#Sixth work
+mean(trees$Volume)
