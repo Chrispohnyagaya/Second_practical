@@ -22,4 +22,9 @@ boxplot(trees$Volume)
 
 
 
+#Fourth work. before merging.
+
+hist(trees$Height)
+
+hist(trees$Volume)
 
